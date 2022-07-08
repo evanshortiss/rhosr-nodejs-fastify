@@ -1,0 +1,9 @@
+{
+  "type" : "record",
+  "name" : "Song",
+  "namespace": "com.acme.myapp",
+  "fields" : [
+     { "name" : "name" , "type" : "string" },
+     { "name" : "artist" , "type" : "string" }
+  ]
+}
